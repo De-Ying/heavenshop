@@ -1,0 +1,144 @@
+body{
+    font-family: "DejaVu Sans";
+}
+.healding-order{
+    height: 230px;
+    width: 100%;
+}
+.hl-l{
+    height: 230px;
+    width: 50%;
+    float: left;
+}
+.hl-l h2{
+    padding-bottom: 5px;
+}
+.hl-l h5{
+    font-weight: normal;
+}
+.hl-r{
+    height: 230px;
+    width: 50%;
+    float: right;
+}
+.hl-r span{
+    font-weight: normal;
+}
+.hl-r h2{
+    float: right;
+    padding-right: 10px;
+}
+.hl-r h5{
+    float: right;
+    padding-top: 50px;
+    padding-right: 20px;
+}
+.content-order{
+    height: auto;
+    width: 100%;
+}
+.ct-t{
+    height: auto;
+    width: 100%;
+}
+.ct-t-l{
+    height: auto;
+    width: 40%;
+    float: left;
+    font-weight: bold;
+}
+.ct-t-r{
+    height: auto;
+    width: 40%;
+    float: right;
+    font-weight: bold;
+}
+.ct-m{
+    height: auto;
+    width: 100%;
+}
+.ct-m-l{
+    height: auto;
+    width: 40%;
+    float: left;
+    border-top: 1px solid #000000;
+    border-left: 1px solid #000000;
+}
+.ct-m-l h5{
+    margin-left: 5px;
+    font-weight: normal;
+}
+.ct-m-r{
+    height: auto;
+    width: 40%;
+    float: right;
+    border-top: 1px solid #000000;
+    border-left: 1px solid #000000;
+}
+.ct-m-r h5{
+    margin-left: 5px;
+    font-weight: normal;
+}
+.ct-b{
+    height: auto;
+    width: 100%;
+}
+.table-responsive{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+th{
+    background: #000000;
+    color: #ffffff;
+    font-weight: normal;
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+td{
+    border-right: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+}
+td:last-child{
+    border-right: none;
+    border-bottom: 1px solid #000000;
+}
+tr:nth-child(even){
+    background-color: #f2f2f2
+}
+.order-calculator td{
+    border: none;
+}
+.order-calculator td:last-child{
+    border-bottom: 1px solid #000000;
+    border-left: 1px solid #000000;
+}
+.footer-order{
+    margin-top: 100px;
+    height: auto;
+    width: 100%;
+}
+.ft-l{
+    height: auto;
+    width: 40%;
+    float: left;
+}
+.ft-l i{
+    display: block;
+    text-align: center;
+}
+.ft-r{
+    height: auto;
+    width: 40%;
+    float: right;
+}
+.ft-r i{
+    display: block;
+    text-align: center;
+}
+
+.clear{
+    clear: both;
+}

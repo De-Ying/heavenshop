@@ -1,0 +1,71 @@
+.md-content h3 {
+    color: #97A1A8;
+    background: none;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.r-0 {
+    right: 0;
+}
+
+.text-base {
+    font-size: 1rem !important;
+}
+
+.z-50 {
+    z-index: 50;
+}
+
+.mx-3 {
+    margin: 0.75rem;
+}
+
+.h-38 {
+    height: 2.4rem;
+}
+
+.none {
+    border: none;
+    background: none;
+    cursor: pointer;
+    outline: none;
+}
+
+.btn-lg{
+    padding: 5px 12px;
+}
+
+.left{
+    float: left;
+}
+
+.left-unset{
+    padding-left: unset;
+}
+
+.right-unset{
+    padding-right: unset;
+}
+
+.fa-pencil{
+    font-size: 16px;
+}
+
+.fa-trash-o{
+    font-size: 16px;
+}
+
+.fa-retweet{
+    font-size: 16px;
+}
+
+.text-white{
+    color: white;
+}

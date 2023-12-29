@@ -1,0 +1,221 @@
+h5{
+    color: #000;
+    text-transform: uppercase;
+}
+
+.card-title {
+    color: #000;
+}
+
+.card-text + p {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.card-header{
+    background-color: #fff;
+}
+
+.m-b-10{
+    margin-bottom: 10px;
+}
+
+.text-base {
+    font-size: 1rem;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.text-black-36 {
+    color: #363636;
+}
+
+.m-b-5 {
+    margin-bottom: 5px;
+}
+
+.m-b-10 {
+    margin-bottom: 10px;
+}
+
+.m-r-10 {
+    margin-right: 10px;
+}
+
+.m-l-15 {
+    margin-left: 15px;
+}
+
+.m-r-25 {
+    margin-right: 25px;
+}
+
+.m-t-30 {
+    margin-top: 30px;
+}
+
+.panel-title a:hover {
+    color: #fc0000 !important;
+}
+
+.panel-body a:hover {
+    color: #fc0000 !important;
+}
+
+.cate-link-active{
+    color: #fc0000;
+    font-size: 1rem;
+}
+
+.brand-link-active{
+    color: #fc0000;
+    font-size: 1rem;
+}
+
+.right{
+    float: right;
+}
+
+.m-20{
+    margin: 20px;
+}
+
+#reflink{
+    position: absolute;
+    right: 0px;
+    padding: 5px;
+    background: darkcyan;
+    color: white;
+    border-color: #016d6f;
+    margin: 5px;
+}
+
+.input-group input[type="file"]{
+    width: 100%;
+    opacity: 0;
+    cursor: pointer;
+}
+
+#file_input{
+    border: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    padding: 9px;
+    width: 78%;
+    cursor: pointer;
+}
+
+.j-hint{
+    cursor: context-menu !important;
+}
+
+.radius-50{
+    border-radius: 50%;
+}
+
+.w-120{
+    width: 120px;
+}
+
+.h-120{
+    height: 120px;
+}
+
+.w-70{
+    width: 70px;
+}
+
+.h-70{
+    height: 70px;
+}
+
+.account-link-active{
+    color: #fc0000;
+    font-size: 1.4rem;
+}
+
+a.active{
+    color: #fc0000;
+}
+
+.wishlist-link-active{
+    color: #fc0000;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+}
+
+.parsley-errors-list{
+    line-height: 1.5em !important;
+    margin-top: 10px;
+}
+
+.order-link-active{
+    color: #fc0000;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+}
+
+#simpletable th, td{
+    text-align: center;
+}
+
+.label {
+    border-radius: 2px;
+    color: #fff;
+    text-transform: capitalize;
+    border-radius: 4px;
+    font-size: 80%;
+    padding: 7px 7px;
+}
+
+.label-primary{
+    background: linear-gradient(to right, #01a9ac, #01dbdf);
+}
+
+.label-success{
+    background: linear-gradient(to right, #0ac282, #0df3a3);
+}
+
+.label-danger{
+    background: linear-gradient(to right, #eb3422, #ef5f51);
+}
+
+.pagination{
+    justify-content: flex-end;
+    margin: 10px;
+}
+
+.icofont-ui-close{
+    color: red;
+}
+
+.block{
+    display: block;
+}
+
+.dropdown-menu.show{
+    margin-top: 5px;
+}
+
+.btn-info:focus {
+    box-shadow: 0 0 0 1px rgb(23 162 184 / 50%);
+}
+
+.fs-20 {
+    font-size: 2rem;
+}
+
+.fs-15 {
+    font-size: 1.5rem;
+}
+
+.password-user,
+.profile-user,
+.order-user  {
+    display: flex;
+}
+
+

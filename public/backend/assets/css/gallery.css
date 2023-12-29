@@ -1,0 +1,87 @@
+.md-content h3{
+    color: #97A1A8;
+    background: none;
+}
+.col-sm-12{
+    padding-left: 0px;
+}
+.card .card-header{
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+.card .card-header h5{
+    margin-bottom: 0;
+    color: #757575;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-right: 10px;
+}
+.fee_feeship_edit:focus{
+    border: 1px solid #000;
+}
+.input-group input[type="file"]{
+    opacity: 0;
+    cursor: pointer;
+    position: absolute;
+    bottom: 40px;
+    left: 42%;
+    width: 17%;
+}
+#reflink{
+    position: absolute;
+    right: 46%;
+    bottom: 30%;
+    font-size: 105px;
+}
+#file_input{
+    border: none;
+    position: absolute;
+    bottom: 40px;
+    left: 42%;
+    padding: 10px;
+    cursor: pointer;
+    width: 17%;
+}
+.j-hint{
+    cursor: context-menu !important;
+}
+.row{
+    margin: 0;
+}
+.alert-error{
+    margin: 15px 30px;
+    background: crimson;
+    width: 400px;
+    margin-left: 50px;
+    color: aliceblue;
+}
+button[type="submit"]{
+    display: block;
+    margin: auto;
+}
+
+.parsley-required{
+    border: none;
+    position: absolute;
+    bottom: 1px;
+    left: 42%;
+    width: 25%;
+    cursor: default;
+}
+#error_gallery{
+    border: none;
+    position: absolute;
+    bottom: -5px;
+    left: 42%;
+    width: 25%;
+    cursor: default;
+}
+#form-gallery{
+    width: 44%;
+    margin-top: 10px;
+    position: relative;
+    height: 37px;
+}

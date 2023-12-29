@@ -1,0 +1,157 @@
+.h-130{
+    height: 130px;
+}
+
+.h-250{
+    height: 250px;
+}
+
+#ui-datepicker-div{
+    width: auto;
+    margin-top: 5px;
+    background: lavender;
+}
+
+.ui-datepicker select.ui-datepicker-month, .ui-datepicker select.ui-datepicker-year{
+    width: 35%;
+    margin: 0 8px;
+    border: 1px solid darkgray;
+    background: transparent;
+    outline: none;
+}
+
+select.form-control:not([size]):not([multiple]){
+    height: calc(2.25rem + 0px) !important;
+}
+
+.font-bold{
+    font-weight: 700;
+}
+
+.text-xs{
+    font-size: 0.75rem;
+    line-height: 1rem;
+}
+
+.text-sm{
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+}
+
+.text-base{
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+.text-lg{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+
+.text-xl{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+.text-2xl{
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+.text-3xl{
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+
+.text-4xl{
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+}
+
+.text-5xl{
+    font-size: 3rem;
+    line-height: 1;
+}
+
+.text-inherit{
+    text-transform: inherit;
+}
+
+#access_statistical{
+    width:100%;
+    height: 300px;
+}
+
+#integrated_statistics{
+    width:100%;
+    height: 300px;
+}
+
+.bg-white{
+   background-color: #fff;
+}
+
+.bg-purple{
+    background-color: purple;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.bg-cloud{
+    background-color: #2DCEE3;
+}
+
+.text-white{
+    color:  #fff;
+}
+
+
+.sales-active{
+    background-color: #2DCEE3 !important;
+}
+
+.fa-dollar{
+    padding: 8px 10px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    background: dodgerblue;
+    color: #fff;
+}
+
+.fa-mail-reply{
+    padding: 8px 8px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    background: green;
+    color: #fff;
+}
+
+.tablink {
+    background-color: #F6F7FB;
+    color: black;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+
+}
+
+.tablink:hover {
+    background-color: #fff;
+}
+
+  /* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+    display: none;
+    padding: 50px 20px;
+    height: 100%;
+    background-color: #fff;
+}
+
+#chartCustomer{
+    height: 500px;
+}

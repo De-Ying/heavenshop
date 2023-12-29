@@ -1,0 +1,52 @@
+.fa-times {
+    margin-right: 12px;
+    color: floralwhite;
+    padding: 5px;
+    background: black;
+    border-radius: 8px;
+}
+
+.fa-save {
+    color: black;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.fa-save:hover {
+    color: cornflowerblue;
+}
+
+.fa-times:hover {
+    color: red;
+}
+
+.column-6 button {
+    padding: 10px;
+}
+
+.c-hover:hover {
+    border-color: #717fe0;
+    background-color: #717fe0;
+    color: #fff;
+}
+
+.icons-alert:before {
+    color: #fff;
+    content: '\f027';
+    font-family: icofont !important;
+    font-size: 16px;
+    left: -30px;
+    position: absolute;
+}
+
+.alert.icons-alert {
+    border-left-width: 48px;
+}
+
+.icons-alert {
+    position: relative;
+}
+
+.bor12 {
+    margin-top: 5px;
+}

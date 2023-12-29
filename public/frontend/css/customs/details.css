@@ -1,0 +1,79 @@
+.column-reverse{
+    flex-direction: column-reverse;
+}
+
+.text-3xl{
+    font-size: 1.875rem;
+}
+
+.both{
+    clear: both;
+}
+
+.group-status{
+    font-family: "Roboto",sans-serif;
+    font-size: 14px;
+    margin-bottom: 10px;
+    width: 100%;
+    float: left;
+}
+
+.first_status{
+    color: #707070;
+    display: inline-block;
+    line-height: 14px;
+    margin-bottom: 10px;
+}
+
+.first_status .a_name{
+    display: block;
+    padding: 0px 0px 0 0;
+    margin: 0px;
+    font-family: "Roboto",sans-serif;
+    color: #333;
+    font-weight: 400;
+    float: left;
+    background: #fff;
+    line-height: 15px;
+}
+
+.first_status .status_name{
+    font-size: 14px;
+    color: #fc0000;
+    line-height: 15px;
+    padding: 0px 0px 0px 5px;
+}
+
+.product-price{
+    font-family: "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: #363636;
+    line-height: 1.388888;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.tags {
+    box-shadow: 0 1px 3px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 24%);
+    border: none;
+    display: inline-block;
+    outline: 0;
+    padding: 0px 4px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none !important;
+    color: #fff;
+    background-color: #297596;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 12px;
+}
+
+.tags:hover {
+    color: #fff;
+    background-color: #34292F;
+}
